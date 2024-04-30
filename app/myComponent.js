@@ -4,7 +4,7 @@ export default function myComponents(){
         <div>
             <div className={styles.floatWrap}>
                 <div className={styles.iconWrap}>
-                    <img src="./favicon.ico" style={{height:'40px'}}></img>
+                    <img src="/icon.png" style={{height:'40px'}}></img>
                 </div>
             </div>
         </div>
